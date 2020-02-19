@@ -1,0 +1,9 @@
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\bin\Debug\RedixConverter.exe.config
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\bin\Debug\RedixConverter.exe
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\bin\Debug\RedixConverter.pdb
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\obj\Debug\RedixConverter.csprojAssemblyReference.cache
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\obj\Debug\RedixConverter.Form1.resources
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\obj\Debug\RedixConverter.Properties.Resources.resources
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\obj\Debug\RedixConverter.csproj.GenerateResource.cache
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\obj\Debug\RedixConverter.exe
+C:\Users\Li Bozhao\source\repos\RedixConverter\RedixConverter\obj\Debug\RedixConverter.pdb
